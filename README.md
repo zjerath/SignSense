@@ -1,12 +1,5 @@
 # SignSense
-
-An Apple Music/Spotify clone built using Next.js, Tailwind CSS, and the Spotify API
-
-API details at https://developer.spotify.com/
-
-# Next.js + Tailwind CSS Example
-
-Tailwind CSS is integrated into the `create-next-app` CLI, which supports TypeScript and JavaScript, as well as the App Router (`app/`) and the pages directory `pages/`.
+A real time sign language detector
 
 ## How to use
 
