@@ -2,7 +2,7 @@
 
 A real time sign language detector that incorporates Tensorflow's Object Detection module and OpenCV
 
-Utilizes transfer learning, navigate to Tensorflow/models for more
+Visit https://www.tensorflow.org/hub/tutorials/object_detection for more
 
 ## How to use
 
